@@ -23,7 +23,7 @@ automáticamente a los padres de familia en tiempo real.
 
 ## Instalación
 1. Clonar el repositorio:
-   git clone https://github.com/TU_USUARIO/CetiSafe.git
+   git clone https://github.com/Vicente3456/CetiSafe.git
 
 2. Entrar a la carpeta:
    cd CetiSafe
