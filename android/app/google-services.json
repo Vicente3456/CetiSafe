@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "823402662482",
+    "project_id": "cetisafe-137a7",
+    "storage_bucket": "cetisafe-137a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823402662482:android:da83d3b243b4f060aa6d8b",
+        "android_client_info": {
+          "package_name": "com.cetis13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823402662482-ms6h9768j4l3qqavmetfiae5a3fojghn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9T3VmBKCQmumFdFtbqLzT7YKa6Mufwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823402662482-ms6h9768j4l3qqavmetfiae5a3fojghn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823402662482-g2iiv8bma4jjrmhjrkb1taudbrtt99k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cetisafe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823402662482:android:c984185a00331f15aa6d8b",
+        "android_client_info": {
+          "package_name": "com.cetis131.cetisafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823402662482-ms6h9768j4l3qqavmetfiae5a3fojghn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9T3VmBKCQmumFdFtbqLzT7YKa6Mufwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823402662482-ms6h9768j4l3qqavmetfiae5a3fojghn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823402662482-g2iiv8bma4jjrmhjrkb1taudbrtt99k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cetisafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
